@@ -1,0 +1,19 @@
+html { 
+  background: url(https://media.istockphoto.com/vectors/ok-sign-emoticon-vector-id519461902?k=20&m=519461902&s=612x612&w=0&h=S1_QQhQr5xg6eeo7_h5nFHQojmaDK57DT23NJn4CU6Y=) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {background-color: rgba(0, 0, 0, 0);}
+
+h1 {font-family: 'Creepster', cursive;}
+
+h1 { font-size: 10rem;}
+
+h1:hover {color: #B40066;}
+
+.button:hover {background-color: #A15881;}
+
+.space {padding: 15rem;}

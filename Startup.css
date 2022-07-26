@@ -1,0 +1,36 @@
+html {width: 100%; height: 100%;
+	background: url(https://media.istockphoto.com/photos/exterior-of-model-home-outside-of-a-toy-house-isolated-on-black-picture-id1177286839?k=20&m=1177286839&s=612x612&w=0&h=Hp6fmLzofC_iR7V_8MSoUGzj1JMs1L0_6DjwHrfuJmQ=);
+ no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+ background-color: rgba(0, 0, 0, 0);
+}
+h1 {
+	font-family: 'Creepster', cursive; color: #CD2622;font-size: 3em;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 200px;}
+
+.btn-dark {
+	color: #D03A3A;
+	background-color: #3C0E0D;
+	border-color: #200808; border-width: 4px; 
+	padding: 0.5rem 1.5rem;
+	max-width: 200px;
+}
+
+.btn-dark:hover {
+	color: #D03A3A;
+	background-color: #4F3F3E;
+	border-color: #373030;
+	border-width: 5px;
+}
+
+.space {height: 2rem;}
+
